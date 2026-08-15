@@ -1,6 +1,6 @@
 import Dictionary from "./Components/Dictionary";
 
-class App = () =>{
+const App = () =>{
   return(
     <div>
     <Dictionary/>
